@@ -1,0 +1,44 @@
+# Personal Portfolio Projects
+
+This repository showcases my web development projects created using HTML, CSS, and Bootstrap. These projects reflect my learning progress and ability to build responsive and user-friendly websites.
+
+## Projects Included
+
+### 1. One Page Website (HTML & CSS)
+
+A simple and clean one-page website designed using HTML and CSS. It includes structured sections such as Home, About, and Contact with smooth navigation and basic styling.
+
+### 2. Academy Cinemas Website (Bootstrap)
+
+A responsive website built using Bootstrap. This project demonstrates my ability to use Bootstrap components such as the grid system, navigation bar, and cards to create a modern and mobile-friendly cinema website.
+
+### 3. Three Page Website (HTML & CSS)
+
+A multi-page website consisting of three separate pages connected through navigation. This project highlights my understanding of page linking, layout design, and consistent styling across multiple pages.
+
+## Technologies Used
+
+* HTML5
+* CSS3
+* Bootstrap
+
+## Skills Gained
+
+* Creating structured and responsive web layouts
+* Using Bootstrap for faster and efficient design
+* Designing user-friendly interfaces
+* Managing multi-page website navigation
+
+## Purpose
+
+These projects represent my journey as a beginner web developer and showcase my ability to build both simple and responsive websites.
+
+## Future Improvements
+
+* Add JavaScript for interactivity
+* Improve design and animations
+* Optimize performance and responsiveness
+
+## Author
+
+Created as part of my learning and development in web technologies.
